@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Palencia Kernel Panic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity">Palencia Kernel Panic</string>
+
+    <string name="title_section1">Novedades</string>
+    <string name="title_section2">Perfil</string>
+    <string name="title_section3">Party</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Ya casi estás en matrix</string>
+    <string name="title_activity_register">Alístate en la marina!</string>
+</resources>
